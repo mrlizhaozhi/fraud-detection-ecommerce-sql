@@ -22,3 +22,6 @@ Several data samples are available in this repo: 1) `dataset_five.csv`: This is 
 
 I will add an entity-relationship diagram to illustrate the schema of the relational database. I will also add a Tableau dashboard and Python report using this same dataset.
 
+## Related Contents
+
+[Fraud Detection Modelling and Reporting](https://github.com/mrlizhaozhi/fraud-detection-modelling-and-reporting/): Statistical modelling and machine learning techniques for detecting fraud in data.
