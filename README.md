@@ -12,7 +12,7 @@ The above link includes three datasets: Dataset1, Dataset2, and Merged Dataset. 
 
 - **Python for normalisation**: The `normalisation.ipynb` notebook includes the Python scripts for normalising the selected Kaggle dataset for relational modelling. Steps include exploring the data, subsetting the data, cleaning the data, and exporting database tables. Documentation is available in the notebook for illustrating the thought process.
 
-- **Database creation SQL**: The `database.sql` SQL file includes PostgreSQL SQL queries for creating the relational database consisting of two tables, customers and transactions。 These tables share a one-to-many relationship: One customer can make multiple transactions; one transaction should belong to only one customer.
+- **Database creation SQL**: The `database.sql` SQL file includes PostgreSQL SQL queries for creating the relational database consisting of two tables, customers and transactions. These tables share a one-to-many relationship: One customer can make multiple transactions; one transaction should belong to only one customer.
 
 - **SQL analyses and extration**: The `research.sql` SQL file includes all the SQL queries performed in this database, covering CTE, subqueries, aggregate functions, and window functions for answering fraud detection research questions.
 
