@@ -6,7 +6,7 @@ Fraud detection is critical to the financial security of both banks and customer
 
 I'm using the [Fraud Detection in E-Commerce Dataset](https://www.kaggle.com/datasets/kevinvagan/fraud-detection-dataset) from Kaggle to demonstrate normalisation, relational modelling, and SQL analyses (including CTE, subqueries, aggregate functions, and window functions.) This happens at the early stage of data modelling where the analyst queries the banking database to extract data.
 
-The above link includes three datasets: Dataset1, Dataset2, and Merged Dataset. I'm only using Dataset1 in this SQL project. The original dataset has *1,472,952* rows, *16* columns.
+The above link includes three datasets: Dataset1, Dataset2, and Merged Dataset. I'm only using Dataset1 in this SQL project. The original dataset has *1,472,952* rows, *16* columns. Note that this dataset is synthetic and chosen because descriptive variables are available for SQL demonstration and interpretability.
 
 ## Components
 
