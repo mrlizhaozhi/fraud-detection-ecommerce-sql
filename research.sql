@@ -59,9 +59,9 @@ ORDER BY unique_customers DESC;
 SELECT 
     customer_id,
     AVG(transaction_amount) OVER (
-        PARTITION BY customer_id 
-        ORDER BY transaction_date 
-        ROWS BETWEEN 2 PRECEDING AND CURRENT ROW
+		PARTITION BY customer_id
+    	ORDER BY transaction_date
+    	RANGE BETWEEN INTERVAL '2 days' PRECEDING AND CURRENT ROW
     ) AS rolling_avg_last3
 FROM transactions;
 
