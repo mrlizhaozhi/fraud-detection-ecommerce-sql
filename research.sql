@@ -1,3 +1,5 @@
+-- Author: Li Zhao-Zhi
+-- Analyse the Fraud Detection in E-Commerce Dataset on Kaggle
 
 -- Find the total number of transactions, total revenue, and average transaction amount.
 SELECT
