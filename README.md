@@ -1,4 +1,4 @@
-# Fraud Detection in E-Commerce Dataset (SQL)
+# Fraud Detection in E-Commerce (SQL)
 
 ## Background
 
