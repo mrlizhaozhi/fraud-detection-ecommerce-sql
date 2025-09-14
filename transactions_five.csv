@@ -1,0 +1,16 @@
+transaction_id,customer_id,transaction_amount,transaction_date,payment_method,product_category,quantity,device_used,ip_address,shipping_address,billing_address,is_fraudulent,transaction_hour
+15d2e414-8735-46fc-9e02-80b472b2580f,d1b87f62-51b2-493b-ad6a-77e0fe13e785,58.09,2024-02-20 05:58:41,bank transfer,electronics,1,tablet,212.195.49.198,"Unit 8934 Box 0058
+DPO AA 05437","Unit 8934 Box 0058
+DPO AA 05437",0,5
+0bfee1a0-6d5e-40da-a446-d04e73b1b177,37de64d5-e901-4a56-9ea0-af0c24c069cf,389.96,2024-02-25 08:09:45,debit card,electronics,2,desktop,208.106.249.121,"634 May Keys
+Port Cherylview, NV 75063","634 May Keys
+Port Cherylview, NV 75063",0,8
+e588eef4-b754-468e-9d90-d0e0abfc1af0,1bac88d6-4b22-409a-a06b-425119c57225,134.19,2024-03-18 03:42:55,PayPal,home & garden,2,tablet,76.63.88.212,"16282 Dana Falls Suite 790
+Rothhaven, IL 15564","16282 Dana Falls Suite 790
+Rothhaven, IL 15564",0,3
+4de46e52-60c3-49d9-be39-636681009789,2357c76e-9253-4ceb-b44e-ef4b71cb7d4d,226.17,2024-03-16 20:41:31,bank transfer,clothing,5,desktop,207.208.171.73,"828 Strong Loaf Apt. 646
+New Joshua, UT 84798","828 Strong Loaf Apt. 646
+New Joshua, UT 84798",0,20
+074a76de-fe2d-443e-a00c-f044cdb68e21,45071bc5-9588-43ea-8093-023caec8ea1c,121.53,2024-01-15 05:08:17,bank transfer,clothing,2,tablet,190.172.14.169,"29799 Jason Hills Apt. 439
+West Richardtown, OH 36093","29799 Jason Hills Apt. 439
+West Richardtown, OH 36093",0,5
