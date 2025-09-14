@@ -16,7 +16,7 @@ The above link includes three datasets: Dataset1, Dataset2, and Merged Dataset. 
 
 - **Database creation SQL**: The `database.sql` SQL file includes PostgreSQL SQL queries for creating the relational database consisting of two tables, customers and transactions, that share a one-to-many relationship. One customer can make multiple transactions; one transaction should belong to only one customer.
 
-- **SQL analyses and extration**: The `research.sql` SQL file includes all the SQL queries performed in this database, covering CTE, subqueries, aggregate functions, and window functions.
+- **SQL analyses and extration**: The `research.sql` SQL file includes all the SQL queries performed in this database, covering CTE, subqueries, aggregate functions, and window functions for answering fraud detection research questions.
 
 Several data samples are available in this repo: 1) `dataset_five.csv`: This is the original dataset, namely Dataset1 from the Kaggle Fraud Detection in E-Commerce Dataset page. 2) `customers_five.csv`: This is the customers table data produced from the Python script. 3) `transactions_five.csv`: This is the transactions table data produced from the Python script. Given GitHub storage limitation, only the first five rows are provided for reference.
 
