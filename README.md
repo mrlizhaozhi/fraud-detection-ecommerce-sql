@@ -20,9 +20,6 @@ The above link includes three datasets: Dataset1, Dataset2, and Merged Dataset. 
 
 Several data samples are available in this repo: 1) `dataset_five.csv`: This is the original dataset, namely Dataset1 from the Kaggle Fraud Detection in E-Commerce Dataset page. 2) `customers_five.csv`: This is the customers table data produced from the Python script. 3) `transactions_five.csv`: This is the transactions table data produced from the Python script. Given GitHub storage limitation, only the first five rows are provided for reference.
 
-## Pending Items
-
-I will add an entity-relationship diagram to illustrate the schema of the relational database. I will also add a Tableau dashboard and Python report using this same dataset.
 
 ## Keywords
 
@@ -30,4 +27,4 @@ Fraud Detection, PostgreSQL, Python
 
 ## Related Contents
 
-[Fraud Detection Modelling and Reporting](https://github.com/mrlizhaozhi/fraud-detection-modelling-and-reporting/): Statistical modelling and machine learning techniques for detecting fraud in data.
+[Bank Account Fraud Detection](https://github.com/mrlizhaozhi/application-fraud-bank-account-opening/): In this fraud detection project, I use the open-source research data released by Feedzai to analyse bank account fraud patterns and develop Logistic Regression and XGBoost models to predict this fraud typology using this labelled data. In addition to the Python programs, a Tableau Publish dashboard, a Model Risk Management and Model Governance documentation and a PowerPoint deck for presenting analytical findings are available in the code repository to demonstrate comprehensive data analytics and modelling skills as well as business acumen in the domain of financial crime risk detection.
